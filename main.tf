@@ -1,6 +1,6 @@
 provider "aws" {
 
-  region                   = var.region
+  region                   = ap-south-1
   shared_credentials_files = ["C:/Users/navi/.aws/credentials"]
 
 }
